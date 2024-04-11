@@ -7,7 +7,11 @@ Files:
 - SQL directory- ddl.sql 
              - dml.sql
              
-- Report directory -projectReport.sql
+- main/java - Main.java
+            - User.java
+            - Member.java
+            - Trainer.java
+            - Staff.java
 
 Go to /src/main/java/Main.java
 
